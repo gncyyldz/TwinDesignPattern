@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwinDesignPattern", "TwinDesignPattern\TwinDesignPattern.csproj", "{A59E7058-91C8-4F0D-AFF9-41070D5FF03D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwinDesignPatternExample", "TwinDesignPatternExample\TwinDesignPatternExample.csproj", "{E1C17CFD-92A7-4446-90D9-B90B12196160}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A59E7058-91C8-4F0D-AFF9-41070D5FF03D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A59E7058-91C8-4F0D-AFF9-41070D5FF03D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A59E7058-91C8-4F0D-AFF9-41070D5FF03D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A59E7058-91C8-4F0D-AFF9-41070D5FF03D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1C17CFD-92A7-4446-90D9-B90B12196160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1C17CFD-92A7-4446-90D9-B90B12196160}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1C17CFD-92A7-4446-90D9-B90B12196160}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1C17CFD-92A7-4446-90D9-B90B12196160}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D53F592-3282-44C0-B241-35B898B3B1AC}
+	EndGlobalSection
+EndGlobal
